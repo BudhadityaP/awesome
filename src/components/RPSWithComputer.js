@@ -30,7 +30,7 @@ const RPSWithComputer = (props) => {
     return (
         <Container >
             <Container>
-                <Row style={{ textAlign: 'center', paddingTop: 50, paddingBottom: 50 }}>
+                <Row style={{ textAlign: 'center', paddingTop: 10, paddingBottom: 10 }}>
                     <h1>Play with Computer</h1>
                 </Row>
                 <Row>

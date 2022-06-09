@@ -23,7 +23,7 @@ const RPSCompWithComp = (props) => {
     return (
         <Container style={{ flex: 2 }}>
             <Container>
-                <Row style={{ textAlign: 'center', paddingTop: 50, paddingBottom: 50 }}>
+                <Row style={{ textAlign: 'center', paddingTop: 10, paddingBottom: 10 }}>
                     <h1>Computer vs Computer</h1>
                 </Row>
                 <Row>
